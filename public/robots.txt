@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maverick-it-support.vercel.app/sitemap.xml
